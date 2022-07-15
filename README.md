@@ -4,6 +4,7 @@
 ![header-logos](https://img.shields.io/static/v1?label=Version&logo=confluence&message=.23&color=green)
 ![header-logos](https://img.shields.io/github/commit-activity/w/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies)
 
+`HaxHeadroom Firmware is live:` https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-firmware-wPlugins/releases
 
 ```python
                                            ▒▓░                                           
