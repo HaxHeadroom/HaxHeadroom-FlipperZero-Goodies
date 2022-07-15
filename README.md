@@ -37,4 +37,11 @@
       ▓▓                            ▒   ▓     ▒     ▓                         ▓░          
     ░                               ▓  ▒░     ▓    ▒                               ▓░ 
 ```
+`Moving Contents to your FlipperZero to enable Hackermode`
+
+![sdcard](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/res/images/HaxHeadroomGoodies.gif)
+`How to use the new Elf Loader`
+
+![sdcard](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/res/images/HaxHeadroomELF.gif)
+
 ![max](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/res/images/Network23.JPG)
