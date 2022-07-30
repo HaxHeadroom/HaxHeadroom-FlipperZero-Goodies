@@ -11,31 +11,4 @@ Frame rate: 2
 Duration: 3600
 Active cooldown: 7
 
-Bubble slots: 3
-
-Slot: 0
-X: 5
-Y: 28
-Text: #HaKCerBeats by\nARCHWISP.com
-AlignH: Right
-AlignV: Bottom
-StartFrame: 0
-EndFrame: 8
-
-Slot: 1
-X: 5
-Y: 28
-Text: It's Morbin' Time!!!
-AlignH: Right
-AlignV: Bottom
-StartFrame: 9
-EndFrame: 12
-
-Slot: 2
-X: 5
-Y: 28
-Text: $ msfconsole\nmsf > \nuse exploit/...
-AlignH: Right
-AlignV: Bottom
-StartFrame: 13
-EndFrame: 18
+Bubble slots: 0
