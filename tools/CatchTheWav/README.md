@@ -36,7 +36,9 @@
           ░▓▓                      ▓    ░░   ░▒     ▓                   ░▓                
       ▓▓                            ▒   ▓     ▒     ▓                         ▓░          
     ░                               ▓  ▒░     ▓    ▒  I shouldnt be a repo       ▓░ 
-    https://github.com/cdens/PySpectrogram to view
+
+![header-logos](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/tools/CatchTheWav/SendTheWav.gif)
+
 ```
 
 `Step 0`
