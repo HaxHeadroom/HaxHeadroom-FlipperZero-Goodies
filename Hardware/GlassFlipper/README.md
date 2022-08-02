@@ -13,6 +13,6 @@ GlassFlipper/
 
 ![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/images/Printing.jpg)
 
-![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/images/Printbed.jpg)
+![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/images/PrintBed.png)
 
 ![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/images/V0.jpeg)
