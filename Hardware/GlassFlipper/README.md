@@ -8,6 +8,7 @@ GlassFlipper/
 └── 3DPrint/
     └── contains STL files, FPP, and configs for print settings
 ```
+![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/3DPrint/GlassFlip.jpg)
 
 ![DatGlass](https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies/raw/main/Hardware/GlassFlipper/images/DatGlass.jpg)
 
