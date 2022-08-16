@@ -17,7 +17,7 @@
      Here is a list of my friends
        Add your flipper name
            
-```
+
 N4fu
 Upro1ne
 Kidogha
@@ -29,3 +29,4 @@ Bidcobow
 Ostravu
 Eraxra
 Elybde
+```
