@@ -1,4 +1,4 @@
-```
+
 
                                                                                                ▓▓▓▒           
                                                                                                   ▓▓▓▓        
@@ -29,7 +29,13 @@
                                                                      ▓▓▒▓▒▓▒▓▓░  
 
                                                         THEY CALL ME FLIPPERZERO
-                                                        
- ./23.sh created the video
- Watch the 4K version here: https://youtu.be/J5FaDAOQmrU                                                          
-```
+                                                    
+ ```./23.sh created the video```
+ 
+ ```Short low res sample below. Watch the 4K version here:``` https://youtu.be/J5FaDAOQmrU                                                          
+
+
+
+https://user-images.githubusercontent.com/3261849/186278434-58065c0e-9426-44cb-8688-b7b6656a1a9d.mp4
+
+
